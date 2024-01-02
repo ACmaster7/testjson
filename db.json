@@ -1,4 +1,4 @@
 {
   "strings": ["one", "two", "three"],
-  "array": ["one", "two", "three"]
+  "array": [{"driver": "hasan", "id": 25}, {"driver": "nigga", "id": 26}, "three"]
 }
