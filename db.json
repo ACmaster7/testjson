@@ -1,4 +1,4 @@
 {
   "strings": ["one", "two", "three"],
-  "array": [{"this": 5}, "drag"]
+  "array": ["drag"]
 }
